@@ -1,0 +1,31 @@
+{
+  "name": "Blubber",
+  "identifier": "com.blubber.source",
+  "subtitle": "Reinsprechen, Blubber sortiert.",
+  "iconURL": "https://raw.githubusercontent.com/Nuss023/blubber-releases/main/icon.png",
+  "tintColor": "#409CFF",
+  "apps": [
+    {
+      "name": "Blubber",
+      "bundleIdentifier": "com.blubber.app",
+      "developerName": "Blubber",
+      "subtitle": "Sprachnotizen → Erinnerungen, Wecker, Termine",
+      "localizedDescription": "Action-Button drücken, reinsprechen – Blubber legt Erinnerungen, Wecker, Timer und Termine an.",
+      "iconURL": "https://raw.githubusercontent.com/Nuss023/blubber-releases/main/icon.png",
+      "tintColor": "#409CFF",
+      "category": "productivity",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "Blubber nimmt deine Sprachnotizen auf.",
+          "NSSpeechRecognitionUsageDescription": "Blubber wandelt deine Sprachnotizen auf dem iPhone in Text um.",
+          "NSRemindersFullAccessUsageDescription": "Blubber legt Erinnerungen für dich an.",
+          "NSCalendarsFullAccessUsageDescription": "Blubber trägt Termine in deinen Kalender ein.",
+          "NSAlarmKitUsageDescription": "Blubber stellt Wecker und Timer für dich."
+        }
+      },
+      "versions": []
+    }
+  ],
+  "news": []
+}
