@@ -23,7 +23,8 @@
           "NSSpeechRecognitionUsageDescription": "Blubber wandelt deine Sprachnotizen auf dem iPhone in Text um.",
           "NSRemindersFullAccessUsageDescription": "Blubber legt Erinnerungen für dich an.",
           "NSCalendarsFullAccessUsageDescription": "Blubber trägt Termine in deinen Kalender ein.",
-          "NSAlarmKitUsageDescription": "Blubber stellt Wecker und Timer für dich."
+          "NSAlarmKitUsageDescription": "Blubber stellt Wecker und Timer für dich.",
+          "NSLocationWhenInUseUsageDescription": "Blubber nutzt deinen Standort für Navi, Parkplatz und Zuhause. Er bleibt auf deinem iPhone."
         }
       },
       "versions": [
