@@ -28,6 +28,15 @@
       },
       "versions": [
         {
+          "version": "0.6",
+          "buildVersion": "8",
+          "date": "2026-11-11",
+          "localizedDescription": "Neu: Navi per Sprache (Fahr mich zum nächsten McDonald’s, Wo ist die nächste Tankstelle?, Fahr mich nach Hause), Parkplatz merken (Speichere meinen Standort / Wo hab ich geparkt?), Kurzbefehle starten (Starte Kurzbefehl X), Einführung beim ersten Start und Einstellungen (Zahnrad).",
+          "downloadURL": "https://github.com/Nuss023/blubber-releases/releases/download/v0.6/Blubber.ipa",
+          "size": 579548,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.5",
           "buildVersion": "7",
           "date": "2026-11-11",
