@@ -26,6 +26,15 @@
       },
       "versions": [
         {
+          "version": "0.4.2",
+          "buildVersion": "6",
+          "date": "2026-11-11",
+          "localizedDescription": "Versionsnummer unten in der Liste (jetzt korrekt).",
+          "downloadURL": "https://github.com/Nuss023/blubber-releases/releases/download/v0.4.2/Blubber.ipa",
+          "size": 369864,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.4.1",
           "buildVersion": "5",
           "date": "2026-11-11",
