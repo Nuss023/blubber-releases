@@ -15,7 +15,9 @@
       "tintColor": "#409CFF",
       "category": "productivity",
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
         "privacy": {
           "NSMicrophoneUsageDescription": "Blubber nimmt deine Sprachnotizen auf.",
           "NSSpeechRecognitionUsageDescription": "Blubber wandelt deine Sprachnotizen auf dem iPhone in Text um.",
@@ -25,6 +27,15 @@
         }
       },
       "versions": [
+        {
+          "version": "0.5",
+          "buildVersion": "7",
+          "date": "2026-11-11",
+          "localizedDescription": "Neu: Aufnahme ohne App-Öffnen (Action-Button → Dynamic Island mit Stopp-Knopf) und Homescreen-Widget mit den nächsten Einträgen und Aufnahmeknopf.",
+          "downloadURL": "https://github.com/Nuss023/blubber-releases/releases/download/v0.5/Blubber.ipa",
+          "size": 470804,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "0.4.2",
           "buildVersion": "6",
